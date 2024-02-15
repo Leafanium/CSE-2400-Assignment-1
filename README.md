@@ -24,3 +24,5 @@ The following **bonus** features are implemented:
 
 ## Notes:
 I had fun making this page and just adding numerous random little features, hopefully I covered everything properly. :)
+
+It wont let me add pictures :((
